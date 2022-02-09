@@ -1,8 +1,27 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+function App(){
+
+    const dataclr = data.map( item=>{
+        return <Card 
+        key={item.id}
+        item={item}
+        />
+    }
+    )
+
+    return(
+        <div>
+        <Navbar/>
+        <div className="cards">
+        {dataclr}
+        </div>
+        </div>
+    )
+}
 
 ReactDOM.render(
   <React.StrictMode>
