@@ -1,0 +1,9 @@
+
+.navbar{
+    background-color: #F55A5A;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:white;
+    border-radius: 15px;;
+}
