@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sp-jrnl/static/css/main.9a7aa9dd.css",
+    "main.js": "/sp-jrnl/static/js/main.68c8bfa5.js",
+    "static/js/787.bcbda2ac.chunk.js": "/sp-jrnl/static/js/787.bcbda2ac.chunk.js",
+    "static/media/karachiimgT.jpg": "/sp-jrnl/static/media/karachiimgT.a33d89788032b09f3475.jpg",
+    "static/media/swatT.jpg": "/sp-jrnl/static/media/swatT.4536b505e2af3455ce5a.jpg",
+    "static/media/lhrT.jpg": "/sp-jrnl/static/media/lhrT.580d5ee281a787122f5d.jpg",
+    "static/media/mountainimgT.jpg": "/sp-jrnl/static/media/mountainimgT.7e7126e62f5a5fde534a.jpg",
+    "static/media/islamabadimgT.jpg": "/sp-jrnl/static/media/islamabadimgT.2f56494e3cd81ae9b35b.jpg",
+    "index.html": "/sp-jrnl/index.html",
+    "main.9a7aa9dd.css.map": "/sp-jrnl/static/css/main.9a7aa9dd.css.map",
+    "main.68c8bfa5.js.map": "/sp-jrnl/static/js/main.68c8bfa5.js.map",
+    "787.bcbda2ac.chunk.js.map": "/sp-jrnl/static/js/787.bcbda2ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7aa9dd.css",
+    "static/js/main.68c8bfa5.js"
+  ]
+}
