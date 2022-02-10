@@ -4,11 +4,15 @@ import locationicon from './locationicon.png'
 
 
 export default function Card (props) {
-    console.log(``)
+    console.log(props);
     return (
         <div>
             <div className='card'>
-            <div><img src={`../../public/images/${props.item.imageUrl}`} alt="img" className='card--img'/></div>
+            <div className='img-container'>
+            <img src={require(`../images/${props.item.imageUrl}`)} 
+            alt="img" className='card--img'/>
+            </div>
+           
             <div className='card--info'>
             <div className='header'>
             <img alt ="icon"src={locationicon} width="25px"/>
